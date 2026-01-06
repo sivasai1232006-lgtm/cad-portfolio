@@ -36,7 +36,6 @@ and basic mechanical mechanisms.
 - Conceptual airplane CAD model
 - Focus on overall structure and component layout
 
-####Under Progress
 ### Geneva Mechanism
 - Designed and assembled a Geneva mechanism to study intermittent motion
 - Focus on kinematic constraints and motion transfer
