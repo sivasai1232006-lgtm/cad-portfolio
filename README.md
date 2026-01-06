@@ -15,6 +15,11 @@ and basic mechanical mechanisms.
 ### Vice Bench Assembly
 - Designed a vice bench assembly including screw mechanism and jaws
 - Focus on component interaction and constrained assemblies
+- 
+![Vice Bench Isometric](images/vice_bench_isometric.png)
+- Modelled a vice bench assembly including base, jaws, screw mechanism, and handle
+- Focus on part modelling, assembly constraints, and component interaction
+- Created as a learning project to understand mechanical assemblies
 
 ### Geneva Mechanism
 - Designed and assembled a Geneva mechanism to study intermittent motion
