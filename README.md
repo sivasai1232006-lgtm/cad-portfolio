@@ -28,6 +28,9 @@ and basic mechanical mechanisms.
 ### Nut and Bolt Assembly
 - Standard fastener modelling and assembly
 - Understanding of mechanical fastening and fits
+  ![Nut and Bolt Isometric](images/nut_bolt_isometric.png)
+- Modelled standard nut and bolt components
+- Focus on part modelling, threading concept, and mechanical fastening
 
 ### Basic Airplane Model
 - Conceptual airplane CAD model
