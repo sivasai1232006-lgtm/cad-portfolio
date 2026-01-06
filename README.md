@@ -35,7 +35,7 @@ and basic mechanical mechanisms.
 ### Basic Airplane Model
 - Conceptual airplane CAD model
 - Focus on structural layout and component placement
-  ![Airplane Isometric](images/Airplane.png)
+  ![Aeroplane](images/Aeroplane.png)
 
 - Conceptual airplane CAD model
 - Focus on overall structure and component layout
