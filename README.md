@@ -20,11 +20,7 @@ and basic mechanical mechanisms.
 - Modelled a vice bench assembly including base, jaws, screw mechanism, and handle
 - Focus on part modelling, assembly constraints, and component interaction
 - Created as a learning project to understand mechanical assemblies
-
-### Geneva Mechanism
-- Designed and assembled a Geneva mechanism to study intermittent motion
-- Focus on kinematic constraints and motion transfer
-
+  
 ### Nut and Bolt Assembly
 - Standard fastener modelling and assembly
 - Understanding of mechanical fastening and fits
@@ -39,5 +35,13 @@ and basic mechanical mechanisms.
 
 - Conceptual airplane CAD model
 - Focus on overall structure and component layout
+
+####Under Progress
+### Geneva Mechanism
+- Designed and assembled a Geneva mechanism to study intermittent motion
+- Focus on kinematic constraints and motion transfer
+![Geneva Mechanism Isometric](images/Geneva.png)
+- Designed and assembled a Geneva mechanism
+- Demonstrates intermittent motion and kinematic constraints
 
 Note: Some assemblies are conceptual and created for learning purposes.
