@@ -12,6 +12,14 @@ This repository contains selected CAD projects created using Autodesk Inventor. 
 
 ## Projects
 
+### Sand Drilling Robot
+![Robot Assembly](images/sand_robot.png)
+
+- Designed a robot assembly using parametric top-down design methodology
+- Focus on assembly planning, constraints, and component relationships
+- Demonstrates parametric modelling and structured assembly workflow
+- Includes Autodesk Inventor part and assembly files
+
 ### Vice Bench Assembly
 ![Vice Bench Isometric](images/vice_bench_isometric.png)
 
@@ -39,13 +47,6 @@ This repository contains selected CAD projects created using Autodesk Inventor. 
 - Designed and assembled a Geneva mechanism
 - Demonstrates intermittent motion and kinematic constraints
 - Focus on motion transfer and mechanism design
-
-### Robot Assembly
-![Robot Assembly](images/Robot.png)
-
-- Designed a robot assembly using parametric top-down design methodology
-- Focus on assembly planning, constraints, and component relationships
-- Demonstrates parametric modelling and structured assembly workflow
 
 ## Note
 Some assemblies are conceptual and created for learning purposes.
